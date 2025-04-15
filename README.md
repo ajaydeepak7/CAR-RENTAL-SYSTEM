@@ -1,4 +1,9 @@
-![Car_Rental_system](https://github.com/NIRMAL1508/CAR-RENTAL-SYSTEM/assets/86112673/c92326e9-0673-4a02-aa72-562a8a9cdc0f)
+# CAR-RENTAL-SYSTEM
+Car Rental System is a website that helps to create user, rent a car by the customers for a period of time and to add, delete and edit the car details by the admin. All the details are stored in the database for future use.
+Programming Languages: MERN Stack
+
+![290726762-c92326e9-0673-4a02-aa72-562a8a9cdc0f_1](https://github.com/user-attachments/assets/d7f66120-763c-429c-b0ec-4e2cbaafb086)
+
 
 # Getting Started with Create React App
 
